@@ -244,4 +244,3 @@ the author or the assistant.
 ## Contact
 
 Alejandro Lizardi, alejlizardi05@gmail.com
-                                                                    
