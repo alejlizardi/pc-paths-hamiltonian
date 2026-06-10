@@ -192,8 +192,7 @@ paper2/
     ├── inflate.py           the inflation σ = τ[π_1..π_a]
     ├── verify_M.py          minimal independent verifier (classification + M values)
     ├── verify_path.py       edge-by-edge check of the explicit lower-bound path
-    ├── endtoend.py, bigtable.py, validate2.py, check_all_even.py,
-    │   check_trap.py, search_small.py, probe.py
+    ├── (7 more .py scripts)  per-claim checks; see the claim-to-log map
     ├── cpp/rho_tool.cpp     independent C++ implementation (exhaustive n ≤ 12)
     └── logs/                all referenced logs (exh7.txt–exh12.txt, *.log)
 ```
@@ -245,4 +244,4 @@ the author or the assistant.
 ## Contact
 
 Alejandro Lizardi, alejlizardi05@gmail.com
-                       
+                                                                    
